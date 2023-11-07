@@ -167,7 +167,7 @@
         figure
           img.img-t.m-auto(src='@/assets/curso/tema3/12.svg', alt='')
       .col-xl-8
-        .cajon-b.bg-yellow-lighten.p-3.mb-4
+        .cajon-b.bg-yellow-lighten.p-4.mb-4
           p.mb-0 La figura 4 representa a modo de ilustración lo expuesto en los párrafos anteriores. Las familias que se encuentran en un nivel de bajo reconocimiento de sus capacidades o, que, teniendo un nivel de reconocimiento de capacidades medio o alto, enfrentan un alto nivel de riesgo y son las más indicadas para recibir intervenciones focalizadas de fortalecimiento familiar (Segmentos azul oscuro y azul medio). Mientras que las familias con mayor reconocimiento de sus capacidades y niveles de riesgo bajos o moderados pueden ser objeto de intervenciones universales (segmentos azules claros) y no serían objeto de atención de Mi Familia.
 
         p En ese sentido, la modalidad Mi Familia es una intervención de prevención secundaria y terciaria dirigida a familias con nivel de riesgo medio y alto y con poca apropiación de sus capacidades, y que tiene como objetivo fortalecer las capacidades de las familias para promover el ejercicio de la corresponsabilidad de éstas en la protección integral de niñas, niños y adolescentes, reduciendo así el riesgo de vulneración o amenaza, aminorando sus efectos o previniendo nuevas afectaciones.

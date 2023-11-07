@@ -91,6 +91,21 @@
       width: 105%
       height: 107%
 
+.bg_mapa_colombia
+  position: relative
+  .row, p, .row, .row
+    position: relative
+  &::before
+    content: ''
+    position: absolute
+    margin: 0 0rem
+    top: 0
+    left: -4%
+    width: calc(100% + 6rem)
+    height: 103%
+    background-image: url("../assets/curso/tema1/img03.png")
+    background-repeat: no-repeat
+
 .bg_03
   position: relative
   .row, p, .row, .row
@@ -107,7 +122,6 @@
     background-repeat: no-repeat
     @media (max-width: $bp-max-md)
       background-image: none
-      background-color: #FFF9E6
 
 
 .bg_color2
@@ -607,7 +621,7 @@ h3.subtitle
   margin-bottom: 24px
 
 .tarjeta.bg-yellow-light
-  background-color: #FFF2D0
+  background-color: #FFE6A5
 
 .tarjeta.bg-yellow-light.acordion__activo
   background-color: #FFE6A5 !important
