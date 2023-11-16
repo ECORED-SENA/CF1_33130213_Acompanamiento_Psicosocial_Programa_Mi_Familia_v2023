@@ -89,29 +89,48 @@
           .col
             p Parte de lo establecido en la Convención sobre los Derechos de las Personas con Discapacidad (ONU, 2006), fue aprobada por Colombia mediante la Ley 1346 de 2009, cuyo objetivo es: “garantizar y asegurar el ejercicio efectivo de los derechos de las personas con discapacidad, mediante la adopción de medidas de inclusión, acción afirmativa y de N/A ajustes razonables y eliminando toda forma de discriminación por razón de su discapacidad”.
 
-        .row(titulo="Ley 1346 de 2009" subtitulo="")
+        .row(titulo="Ley 1996 de 2019" subtitulo="")
           .col-auto
             figure.mb-4
               img(src='@/assets/curso/tema4/7.svg', style="max-width: 67px")
           .col
             p Reconoce que “todas las personas con discapacidad son sujetos de derecho y obligaciones, y tienen capacidad legal en igualdad de condiciones, sin distinción alguna e independientemente de si usar o no apoyos para la realización de actos jurídicos”, lo que implica la necesidad de que las familias y la sociedad reconozcan a las personas con discapacidad como sujetos de derechos que pueden tomar decisiones respecto a sus vidas y requieren entornos facilitadores y accesibles para ello.
 
-        .row(titulo="Ley 1346 de 2009" subtitulo="")
+        .row(titulo="Política Pública de Discapacidad e Inclusión Social" subtitulo="")
           .col-auto
             figure.mb-4
               img(src='@/assets/curso/tema4/7.svg', style="max-width: 67px")
           .col
             p Reconoce que, cada persona con discapacidad está inmersa en un contexto diferente, el cual influye en su capacidad de desempeño, de realización de actividades y en su calidad de vida. Por esto: “el goce efectivo de los derechos de las PcD y sus familias debe tener como elemento prioritario la comprensión de dicho entorno, ciclo de vida, roles y relaciones, respetando la diferencia e individualidad para generar respuestas y estrategias pertinentes” (ICBF, 2017, pág. 23).
 
-        .row(titulo="Ley 1346 de 2009" subtitulo="")
+        .row(titulo="Ley Estatutaria 1618 de 2013" subtitulo="")
           .col-auto
             figure.mb-4
               img(src='@/assets/curso/tema4/7.svg', style="max-width: 67px")
           .col
             p Establece que las entidades competentes deberán establecer programas de apoyo y acompañamiento a las familias de las personas con discapacidad, que deben articularse con otras estrategias de inclusión, desarrollo social y de superación de la pobreza.
 
-    p Mi Familia asegura medidas de inclusión, acciones y ajustes razonables que permiten que las personas con discapacidad y sus familias, participen en procesos de fortalecimiento de sus capacidades, en conjunto con otras familias, de acuerdo con lo estipulado en la Ley 1346 de 2009, Por medio de la cual se aprueba la “Convención sobre los Derechos de las personas con Discapacidad”, adoptada por la Asamblea General de la Naciones Unidas el 13 de diciembre de 2006.
+    p.mb-5 Mi Familia asegura medidas de inclusión, acciones y ajustes razonables que permiten que las personas con discapacidad y sus familias, participen en procesos de fortalecimiento de sus capacidades, en conjunto con otras familias, de acuerdo con lo estipulado en la Ley 1346 de 2009, Por medio de la cual se aprueba la “Convención sobre los Derechos de las personas con Discapacidad”, adoptada por la Asamblea General de la Naciones Unidas el 13 de diciembre de 2006.
 
+    .bg-green.p-4.mb-5
+      .row
+        .col-lg-auto.col-12
+          figure.mb-4
+            img(src='@/assets/curso/tema4/img17.svg', alt='', style="max-width: 85px").mx-auto
+        .col
+          p.mb-0 Mi Familia promueve que las familias reconozcan y valoren la diversidad y se avance en la comprensión de una mirada inclusiva e integradora de la diferencia, superando los programas especializados, en contextos que no son necesarios y que refuerzan la exclusión. No obstante, se reconoce que existen situaciones que afectan de manera particular a las familias que tienen integrantes con discapacidad, por ejemplo, se incluyen estrategias qu
+
+    h3.subtitle.my-5
+      span Género
+
+    .bloque-texto-g.bloque-texto-g--inverso.bg-green-lighten.p-3.p-sm-4.p-md-5.mb-5
+      .bloque-texto-g__img(
+        :style="{'background-image': `url(${require('@/assets/curso/tema4/img18.png')})`}"
+      )
+      .bloque-texto-g__texto.p-4
+        p.mb-0 La perspectiva de género reconoce que las relaciones entre personas pueden verse alteradas en función de procesos sociales, culturales e históricos, asignando roles, identidades, espacios y comportamientos específicos, que en ocasiones pueden generar inequidades basadas en el género, en los diferentes contextos.
+
+    p A partir de este enfoque, Mi Familia desarrolla acciones que permitan avanzar en la equidad de género, tales como: promoción de distribuciones balanceadas en el cuidado, promoción de derechos sexuales y reproductivos con énfasis en la prevención del embarazo en la adolescencia y las uniones tempranas, así como fortalecer prácticas para la prevención de la violencia basada en género, entre otros; lo anterior, para garantizar mayores niveles de bienestar en la familia, que permitan generar relaciones solidarias, democráticas y participativas entre sus integrantes.
 
     h3.subtitle.my-5
       span Diversidad sexual y de género
@@ -119,13 +138,13 @@
     p.mb-4 Al respecto, es importante hacer referencia a los derechos consagrados en los artículos 13 y 16 de la Constitución Política Nacional:
 
     .bg-grayblue.p-5.mb-5
-      LineaTiempoE.color-secundario
-        .row(titulo="Artículo 13." subtitulo="")
-          .col-auto
-            figure.mb-4
-              img(src='@/assets/curso/tema4/7.svg', style="max-width: 67px")
-          .col
-            p Todas las personas nacen libres e iguales ante la ley, recibirán la misma protección y trato de las autoridades y gozarán de los mismos derechos, libertades y oportunidades sin ninguna discriminación por razones de sexo, raza, origen nacional o familiar, lengua, religión, opinión política o filosófica. El Estado promoverá las condiciones para que la igualdad sea real y efectiva y adoptara medidas en favor de grupos discriminados o marginados…”. Artículo 16. Todas las personas tienen derecho al libre desarrollo de su personalidad sin más limitaciones que las que imponen los derechos de los demás y el orden jurídico.”
+      .row
+        .col-lg-auto.d-none.d-lg-block
+          figure.mb-4
+            img(src='@/assets/curso/tema4/7.svg', style="max-width: 67px")
+        .col
+          h4 Artículo 13.
+          p Todas las personas nacen libres e iguales ante la ley, recibirán la misma protección y trato de las autoridades y gozarán de los mismos derechos, libertades y oportunidades sin ninguna discriminación por razones de sexo, raza, origen nacional o familiar, lengua, religión, opinión política o filosófica. El Estado promoverá las condiciones para que la igualdad sea real y efectiva y adoptara medidas en favor de grupos discriminados o marginados…”. Artículo 16. Todas las personas tienen derecho al libre desarrollo de su personalidad sin más limitaciones que las que imponen los derechos de los demás y el orden jurídico.”
 
     .row
       .col-xl-4.d-none.d-xl-block
@@ -201,6 +220,7 @@ export default {
   position: absolute !important
   top: -79px
   left: -160px
+  max-width: 320px
   @media screen and (max-width: $bp-max-xl)
     top: -72px
 

@@ -15,7 +15,7 @@
           img.img-t.m-auto(src='@/assets/curso/tema2/img01.png')
 
     .bg-full.bg-yellow-lighten.bg_t2
-      .bg-purple-light.p-4.mb-5
+      //.bg-purple-light.p-4.mb-5
         p.mb-0 Cabe aclarar que, debido a que la vinculación de familias se realiza mediante priorización territorial, los criterios para su identificación tanto en Mi Familia Rural como Urbana, responderán a las mismas problemáticas, toda vez que, lo que dará la atención diferenciada será el esquema de atención; en este sentido, las familias que podrán ser vinculadas a Mi Familia son las siguientes:
 
       .row.justify-content-center.slyder-container

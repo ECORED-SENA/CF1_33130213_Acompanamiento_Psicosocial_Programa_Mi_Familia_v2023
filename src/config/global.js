@@ -89,19 +89,6 @@ export default {
         numero: '4',
         titulo: 'Enfoques del acompañamiento psicosocial',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            numero: '3.1',
-            titulo:
-              'Familias como corresponsables de la protección integral de niñas, niños y adolescentes',
-            hash: 't_3_1',
-          },
-          {
-            numero: '3.2',
-            titulo: 'Carácter preventivo de Mi Familia',
-            hash: 't_3_2',
-          },
-        ],
       },
     ],
     subMenu: [

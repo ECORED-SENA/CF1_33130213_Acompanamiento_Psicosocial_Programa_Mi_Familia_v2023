@@ -78,25 +78,25 @@
         .bg-yellow-lighten.p-5
           .bg-yellow-light.p-4.mb-4
             .row.align-items-center
-              .col-auto
-                figure
-                  img(src='@/assets/curso/tema3/6.svg', alt='', style='max-width:92px')
+              .col-lg-auto.col-12
+                figure.mb-4
+                  img(src='@/assets/curso/tema3/6.svg', alt='', style='max-width:92px').mx-auto
               .col
                 p.mb-0 Fortalezas y recursos para promover su desarrollo y afrontar dificultades.
 
           .bg-yellow-light.p-4.mb-4
             .row.align-items-center
-              .col-auto
-                figure
-                  img(src='@/assets/curso/tema3/7.svg', alt='', style='max-width:92px')
+              .col-lg-auto.col-12
+                figure.mb-4
+                  img(src='@/assets/curso/tema3/7.svg', alt='', style='max-width:92px').mx-auto
               .col
                 p.mb-0 Riesgos y transiciones, en las cuales hay mayor vulnerabilidad cuando, no se conjugan sentidos para la reorganización, ni se activan capacidades de afrontamiento, ante la acumulación de situaciones perturbadoras tales como problemas en las relaciones conyugales, parento-filiales, o en otros de sus subsistema.
 
           .bg-yellow-light.p-4
             .row.align-items-center
-              .col-auto
-                figure
-                  img(src='@/assets/curso/tema3/8.svg', alt='', style='max-width:92px')
+              .col-lg-auto.col-12
+                figure.mb-4
+                  img(src='@/assets/curso/tema3/8.svg', alt='', style='max-width:92px').mx-auto
               .col
                 p.mb-0 Manifestaciones de violencia, abandono, conductas desafiantes, abuso de sustancias, entre otras, que pueden deteriorar la protección de sus integrantes.
 
@@ -121,7 +121,7 @@
     .row.justify-content-center.mb-5
       .col-xl-8
         .titulo-sexto.color-acento-contenido(data-aos="fade-right").mb-4
-          h5 Figura 4.
+          h5 Figura 3.
           span Distribución de familias según nivel de riesgo y grado de reconocimiento de sus capacidades
 
         figure
@@ -136,39 +136,38 @@
       .tarjeta.color-acento-botones--borde.p-4(titulo="Prevención primaria")
         h4 Prevención primaria
         .row.justify-content-center
-          .col-lg-auto.col-12.mb-4
-            figure
-              img.img-t.m-auto(src='@/assets/curso/tema3/img09.svg', alt='')
           .col
             p.mb-0 Está dirigida a familias que no reportan ninguna dificultad específica o que presentan algunos conflictos entre sus miembros sin presencia de dificultades socioeconómicas, donde aún no se presentan riesgos frente a la protección, cuidado y promoción del desarrollo de los niños, niñas y adolescentes. Las actuaciones de los programas que incorporan este tipo de prevención están encaminadas a eliminar las causas que podrían generar vulneraciones a niñas, niños y adolescentes. Bajo este escenario se contemplan actuaciones dirigidas al fomento y defensa de los derechos de niñas, niños y adolescentes y a la consolidación de la familia como entorno protector (Kuehlein, 2009).
-
+          .col-lg-auto.col-12.mb-4.d-none.d-lg-block
+            figure
+              img.img-t.m-auto(src='@/assets/curso/tema3/img09.svg', alt='')
 
       .tarjeta.color-acento-botones--borde.p-4(titulo="Prevención secundaria")
         h4 Prevención secundaria
         .row.justify-content-center
-          .col-lg-auto.col-12.mb-4
-            figure
-              img.img-t.m-auto(src='@/assets/curso/tema3/10.svg', alt='')
           .col
             p.mb-0 Los programas de prevención secundaria están dirigidos a la población con alto riesgo de vulneración o con derechos vulnerados en estados muy tempranos. El objetivo de este tipo de programas es prevenir la materialización de las afectaciones a los derechos o disminuir sus efectos. Las intervenciones en este escenario deben estar dirigidas a entender la situación que genere el riesgo y realizar acompañamiento a las familias con el fin de promover mayor apropiación de sus recursos o capacidades para transformar la https://www.freepik.es/foto-gratis/padres-e-hijos-haciendo- situación y desarrollar o fortalecer prácticas protectoras (Kuehlein, 2009).
+          .col-lg-auto.col-12.mb-4.d-none.d-lg-block
+            figure
+              img.img-t.m-auto(src='@/assets/curso/tema3/10.svg', alt='')
 
       .tarjeta.color-acento-botones--borde.p-4(titulo="Prevención terciaria")
         h4 Prevención terciaria
         .row.justify-content-center
-          .col-lg-auto.col-12.mb-4
+          .col
+            p Finalmente, los programas de prevención terciaria tienen lugar en sujetos con derechos vulnerados o familias con múltiples problemas y poca apropiación de sus capacidades que no les permite activar autónomamente sus recursos. Estas familias enfrentan dificultades para ejercer de manera adecuada las funciones de protección y cuidado de sus integrantes; por ejemplo, familias con niñas, niños y adolescentes que están o estuvieron en PARD o SRPA.
+            p El principal objetivo de este tipo de intervenciones es: “Generar un marco de actuación específico sobre aquellas situaciones posiblemente asociadas a la persistencia de una vulneración de derechos de los niños, niñas y adolescentes” (ICBF, s.f.); así como la restauración del goce efectivo de derechos, reducir las consecuencias de la vulneración y evitar nuevas afectaciones.
+          .col-lg-auto.col-12.mb-4.d-none.d-lg-block
             figure
               img.img-t.m-auto(src='@/assets/curso/tema3/11.svg', alt='')
-          .col
-            p.mb-0 Finalmente, los programas de prevención terciaria tienen lugar en sujetos con derechos vulnerados o familias con múltiples problemas y poca apropiación de sus capacidades que no les permite activar autónomamente sus recursos. Estas familias enfrentan dificultades para ejercer de manera adecuada las funciones de protección y cuidado de sus integrantes; por ejemplo, familias con niñas, niños y adolescentes que están o estuvieron en PARD o SRPA. El principal objetivo de este tipo de intervenciones es: “Generar un marco de actuación específico sobre aquellas situaciones posiblemente asociadas a la persistencia de una vulneración de derechos de los niños, niñas y adolescentes” (ICBF, s.f.); así como la restauración del goce efectivo de derechos, reducir las consecuencias de la vulneración y evitar nuevas afectaciones.
-
 
     .row.justify-content-center.mb-5
       .col-xl-4.d-none.d-xl-block
         figure
-          img.img-t.m-auto(src='@/assets/curso/tema3/12.svg', alt='')
+          img.img-t.m-auto(src='@/assets/curso/tema3/12.svg', alt='Representación gráfica en el que se identifica el nivel de riesgo por el grado de reconocimiento de un grupo de familias.')
       .col-xl-8
         .cajon-b.bg-yellow-lighten.p-4.mb-4
-          p.mb-0 La figura 4 representa a modo de ilustración lo expuesto en los párrafos anteriores. Las familias que se encuentran en un nivel de bajo reconocimiento de sus capacidades o, que, teniendo un nivel de reconocimiento de capacidades medio o alto, enfrentan un alto nivel de riesgo y son las más indicadas para recibir intervenciones focalizadas de fortalecimiento familiar (Segmentos azul oscuro y azul medio). Mientras que las familias con mayor reconocimiento de sus capacidades y niveles de riesgo bajos o moderados pueden ser objeto de intervenciones universales (segmentos azules claros) y no serían objeto de atención de Mi Familia.
+          p.mb-0 La figura 3 representa a modo de ilustración lo expuesto en los párrafos anteriores. Las familias que se encuentran en un nivel de bajo reconocimiento de sus capacidades o, que, teniendo un nivel de reconocimiento de capacidades medio o alto, enfrentan un alto nivel de riesgo y son las más indicadas para recibir intervenciones focalizadas de fortalecimiento familiar (Segmentos azul oscuro y azul medio). Mientras que las familias con mayor reconocimiento de sus capacidades y niveles de riesgo bajos o moderados pueden ser objeto de intervenciones universales (segmentos azules claros) y no serían objeto de atención de Mi Familia.
 
         p En ese sentido, la modalidad Mi Familia es una intervención de prevención secundaria y terciaria dirigida a familias con nivel de riesgo medio y alto y con poca apropiación de sus capacidades, y que tiene como objetivo fortalecer las capacidades de las familias para promover el ejercicio de la corresponsabilidad de éstas en la protección integral de niñas, niños y adolescentes, reduciendo así el riesgo de vulneración o amenaza, aminorando sus efectos o previniendo nuevas afectaciones.
 
@@ -198,7 +197,7 @@
               p Finalmente, se consideran como factores que aumentan el riesgo de que niñas, niños y adolescentes sean víctimas de violencia física o negligencia el que los padres o cuidadores consuman sustancias psicoactivas o alcohólicas, así como que hayan sido víctimas de violencia o negligencia en su infancia o que sufran de depresión, poca empatía o aislamiento social, (WHO, 2013).
 
 
-        .col-xl-4.align-self-end
+        .col-xl-4.align-self-end.d-none.d-xl-block
           figure.px-4
             img(src='@/assets/curso/tema3/13.svg', alt='', style="max-width: 400px")
 
@@ -206,9 +205,9 @@
 
       .bg-green.p-4
         .row
-          .col-auto
-            figure
-              img(src='@/assets/curso/tema3/13.svg', alt='', style="max-width: 85px")
+          .col-lg-auto.col-12
+            figure.mb-4
+              img(src='@/assets/curso/tema3/img24.svg', alt='', style="max-width: 85px").mx-auto
           .col
             p.mb-0 De otro lado, la evidencia muestra que fortalecer la resiliencia de niñas, niños y adolescentes con el fin de mejorar su capacidad de respuesta frente a situaciones adversas, constituye un factor protector a nivel individual (Buchanan, 2014); asimismo, fortalecer la resiliencia de los padres con el fin de evitar que se generen frustraciones o estrés, constituye un factor que podría disminuir el riesgo de negligencia o violencia física en contra de niñas, niños y adolescentes (WHO, 2013)
 
@@ -232,24 +231,24 @@
         .col-xl-10
           .bg-green-ligth.p-4.mb-4
             .row
-              .col-auto
-                figure
-                  img(src='@/assets/curso/tema3/16.svg', alt='', style="max-width: 85px")
+              .col-lg-auto.col-12
+                figure.mb-4
+                  img(src='@/assets/curso/tema3/16.svg', alt='', style="max-width: 85px").mx-auto
               .col
                 p.mb-0 La capacidad de respuesta, la estimulación temprana, la calidez, la sensibilidad, la aceptación, la previsibilidad, así como las reglas y estructuras al interior del hogar, #[strong contribuyen positivamente a la protección integral de niñas, niños y adolescentes.]
 
           .bg-green-ligth.p-4
             .row
-              .col-auto
-                figure
-                  img(src='@/assets/curso/tema3/17.svg', alt='', style="max-width: 85px")
+              .col-lg-auto.col-12
+                figure.mb-4
+                  img(src='@/assets/curso/tema3/17.svg', alt='', style="max-width: 85px").mx-auto
               .col
                 p.mb-0 La evidencia muestra que los padres o cuidadores que tienen conocimiento acerca de las diferentes etapas del desarrollo infantil y tienen la habilidad de aplicar ese conocimiento en la crianza de sus hijos pueden #[strong generar comunicación asertiva y estrategias de disciplina positiva.]
 
       .row
         .col-xl-4
-          figure
-            img(src='@/assets/curso/tema3/18.svg', alt='')
+          figure.mb-4
+            img(src='@/assets/curso/tema3/18.svg', alt='', style="max-width: 400px").mx-auto
         .col-xl-8
           p De otro lado, la presencia de una persona con discapacidad en las familias se reconoce como una condición que aumenta los factores de riesgos de vulneración de derechos, estos factores adicionales surgen debido a la discriminación y exclusión histórica que enfrentan las personas con discapacidad en la sociedad, lo que hace que las barreras de acceso a los bienes y servicios sociales y comunitarios para las personas con discapacidad limiten la red de apoyo de estas familias.
 
