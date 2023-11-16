@@ -19,7 +19,7 @@
     Separador
 
     #t_1_1.titulo-segundo.color-acento-contenido(data-aos="zoom-out-right")
-      h2 1.1 ¿Qué es el ICBF? ¿Cuáles son sus propósitos como entidad?
+      h2 1.1 1.1 ¿Qué es el ICBF? ¿Cuáles son sus propósitos como entidad?
 
     .bg_02.mb-5
       .row.justify-content-center
@@ -300,104 +300,141 @@
 
         p Esta dirección también se encarga de administrar la producción, compra y distribución de Alimentos de Alto Valor Nutricional en los servicios del ICBF y en poblaciones vulnerables, en articulación con el sector salud, entidades territoriales y otras organizaciones.
 
-    p.mb-5 Se puede sintetizar entonces, la oferta de programas del ICBF de la siguiente manera, en la que además se logra identificar el programa a desarrollar (ver figura 2):
-
-    .titulo-sexto.color-acento-contenido(data-aos="fade-right").mb-4
-      h5 Figura 2.
-      span <em>Oferta de Programas del ICBF</em>
-
-    .bg-full.bg-yellow-lighten
-      figure(data-aos="zoom-in-up")
-        img.img-t.m-auto(src='@/assets/curso/tema1/img21.svg', alt='')
 
     Separador
 
     #t_1_3.titulo-segundo.color-acento-contenido(data-aos="zoom-out-right")
-      h2 1.3 ¿Qué es Mi Familia?
+      h2 1.3 ¿Qué es <em>Mi Familia</em>?
 
     .bg_02.mb-5
       .row.justify-content-center
         .col-lg-11.order-2.order-lg-1(data-aos="fade-right")
-          p Mi Familia es un programa de acompañamiento familiar psicosocial que tiene como objetivo fortalecer las capacidades de las familias para promover el desarrollo integral de niños, niñas y adolescentes y reducir y mitigar los efectos de la violencia, el abuso o la negligencia en su contra, de forma que se salvaguarden los derechos de la niñez y la adolescencia. <b>Para ampliar la información sobre qué es Mi Familia, lo invitamos a ver el siguiente video:</b>
+          p La modalidad Mi Familia constituye una intervención dirigida a las familias, que busca promover el desarrollo integral y el fortalecimiento de capacidades en el ejercicio de su rol como corresponsables en la protección integral de los niños, niñas y adolescentes y en la prevención de las violencias, abusos o negligencia al interior de las familias.
         .col-lg-1.order-1.order-lg-2.mb-4.mb-lg-0(data-aos="fade-left")
           figure
             img.img-t.m_left(src='@/assets/curso/tema1/img22.svg')
-
-    p.text-bold Mi Familia
-
-    figure
-    .video.mb-5
-      iframe(width="560" height="315" src="https://www.youtube.com/embed/KCP9XzSmm_s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     .row.justify-content-center.align-items-center.pb-5
       .col-lg-4.d-none.d-lg-flex(data-aos="fade-left")
         figure
           img.img-t.m-auto(src='@/assets/curso/tema1/img23.png')
       .col-lg-8(data-aos="fade-right")
-        p El acompañamiento psicosocial que ofrece Mi Familia inicia con la medición de habilidades tanto en padres, madres o cuidadores como en los niños, niñas y adolescentes a través de test psicológicos. Esto permite realizar un diagnóstico inicial y brindar un acompañamiento diseñado a la medida de cada familia. Las sesiones están conformadas por un ciclo básico y uno de profundización.
-        p Durante el ciclo básico se abordan temáticas relacionadas con el autocuidado y cuidado del otro, regulación emocional, vinculación positiva, comunicación asertiva y resolución de conflictos, entre otros. El ciclo de profundización ofrece la posibilidad de abordar con las familias temáticas que responden a sus intereses y particularidades (ver figura 3).
+        p Mi Familia parte de una comprensión de las familias como agentes activos de su propio desarrollo, capaces de identificar sus recursos y potencialidades, provocar cambios en sus dinámicas familiares, y reconocer sus logros y avances. La modalidad, por su parte, se implementa en el ámbito de la confidencialidad, respeto, aceptación, dialogo, observación, autonomía y reconocimiento de sus derechos, para la transformación de las formas de interacción y relacionamiento familiar.
+        .cajon-b.color-primario.p-3.mb-5
+          p.mb-0 Las familias que participan en esta modalidad cuentan con acompañamiento psicosocial que se adapta a sus necesidades y particularidades, a través del cual se motiva el reconocimiento de sus recursos y capacidades y las invita a practicar formas de relacionamiento democráticas, basadas en el respeto y libres de violencia, que les permitan cumplir de manera adecuada su función de protección y promoción del desarrollo de niñas, niños y adolescentes.
 
-    .row.mb-5.justify-content-center
-      .col-lg-10
-        .titulo-sexto.color-acento-contenido(data-aos="fade-right").mb-4
-          h5 Figura 3.
-          span <em>Sesiones de acompañamiento del programa</em>
 
-    .row.justify-content-center.mb-4.mb-lg-5
-      .col-lg-4.col-md-6.mb-5.mb-lg-0.pb-4.pb-lg-0(data-aos="fade-right")
-        .bg_04.p-4
+    .bg_02.mb-5
+      .row.justify-content-center
+        .col-lg-11.order-2.order-lg-1(data-aos="fade-right")
+          p Adicionalmente, Mi Familia se fundamenta en un enfoque ecosistémico, que reconoce la existencia de factores protectores y de riesgo que se generan en las interacciones al interior y entre los sistemas en los que está inmerso niñas, niños y adolescentes y la familia, lo que motiva la necesidad de abordar las relaciones y dinámicas familiares, la interacción de la familia con el entorno y promover el fortalecimiento social y el acceso a servicios sociales.
+        .col-lg-1.order-1.order-lg-2.mb-4.mb-lg-0(data-aos="fade-left")
           figure
-            img.img-t.mx-auto.m_top1(src='@/assets/curso/tema1/img24.svg')
-        .bg_05.p-4
-          .row.justify-content-center
-            .col-lg-11
-              p.text-bold Ciclo básico
-              ul.lista-ul
-                li
-                  i.fas.fa-check-circle
-                  | Autocuidado y cuidado del otro.
-                li
-                  i.fas.fa-check-circle
-                  | Regulación emocional.
-                li
-                  i.fas.fa-check-circle
-                  | Vinculación positiva.
-                li
-                  i.fas.fa-check-circle
-                  | Comunicación asertiva.
-                li
-                  i.fas.fa-check-circle
-                  | Resolución de conflictos.
-      .col-lg-4.col-md-6(data-aos="fade-left")
-        .bg_06.p-4
-          figure
-            img.img-t.m_top2(src='@/assets/curso/tema1/img25.svg')
-        .bg_07.p-4
-          .row.justify-content-center
-            .col-lg-11
-              p.text-bold Ciclo de profundización
-              ul.lista-ul
-                li
-                  i.fas.fa-check-circle
-                  | Prevención del consumo de sustancias psicoactivas –SPA.
-                li
-                  i.fas.fa-check-circle
-                  | Vivencia de la sexualidad en la familia.
-                li
-                  i.fas.fa-check-circle
-                  | Prevención de la violencia sexual.
+            img.img-t.m_left(src='@/assets/curso/tema1/img30.svg')
+
+
+    p.mb-5 #[b En el trabajo con las familias que se realiza a través de Mi Familia se establecen las siguientes orientaciones:]
+
+    .row.align-items-stretch.mb-5
+      .col-lg-6.col-xl-4.mb-4
+        .tarjeta-numerada.color-acento-botones.p-5.h-100
+          .tarjeta-numerada__numero
+            .h2.text-white 1
+
+          p.text-center Las familias cuentan con recursos para solucionar sus problemas y promover cambios en sus dinámicas relacionales que les permitan fortalecer su función protectora.
+
+      .col-lg-6.col-xl-4.mb-4
+        .tarjeta-numerada.color-acento-botones.p-5.h-100
+          .tarjeta-numerada__numero
+            .h2.text-white 2
+
+          p.text-center Todas las familias en algún momento de su historia experimentan situaciones estresantes o donde no cuentan con los recursos o apoyos suficientes para enfrentar los retos que se derivan de las transiciones vitales o de las crisis. En estos momentos, a través de diversas estrategias de apoyo y acompañamiento, se pueden promover o potenciar las capacidades de las familias para superar las dificultades y salir fortalecidas.
+
+      .col-lg-6.col-xl-4.mb-4
+        .tarjeta-numerada.color-acento-botones.p-5.h-100
+          .tarjeta-numerada__numero
+            .h2.text-white 3
+
+          p.text-center Las familias son sujetos de derechos y agentes activos de su propio desarrollo, transformación y resignificación, con capacidad de decidir sobre sus propios asuntos, provocando cambios en el relacionamiento y dinámicas entre sus integrantes.
+
+      .col-lg-6.col-xl-4.mb-4
+        .tarjeta-numerada.color-acento-botones.p-5.h-100
+          .tarjeta-numerada__numero
+            .h2.text-white 4
+          p.text-center La familia es una colectividad de individuos interdependientes que experimentan cambios constantes a lo largo de su vida, tanto individuales como colectivo, por lo que es necesario tener en cuenta su historia, contexto y evolución.
+
+      .col-lg-6.col-xl-4.mb-4
+        .tarjeta-numerada.color-acento-botones.p-5.h-100
+          .tarjeta-numerada__numero
+            .h2.text-white 5
+          p.text-center Las familias son diversas, no existe una única forma o modelo de familia
+
+      .col-lg-6.col-xl-4.mb-4
+        .tarjeta-numerada.color-acento-botones.p-5.h-100
+          .tarjeta-numerada__numero
+            .h2.text-white 6
+          p.text-center En la protección integral las actuaciones no son lineales, es decir, una familia o niñas, niños y adolescentes que haya tenido en su historia alguna vulneración o amenaza de derechos puede recibir servicios complementarios para prevenir futuras vulneraciones.
+
+
+    .bg_color5.p-4.mb-5
+      .row.align-items-center
+        .col-auto.mb-4.mb-lg-0(data-aos="fade-right")
+          img.img-t.m-auto(src='@/assets/curso/tema1/img31.svg')
+        .col(data-aos="fade-left")
+          p.m-0 Sumado a lo anterior, otra orientación es comprender, ser sensibles y visibilizar las dinámicas de discriminación y exclusión social, respecto de aquellas familias con otras características que les sitúan en mayor vulnerabilidad (pertenencia étnica, ser víctimas del conflicto armado, habitar en territorios rurales o urbanos, tener integrantes con orientaciones sexuales e identidades de género diversas o con discapacidad, entre otras). Implica desarrollar acciones diferenciales, desde una mirada de interseccionalidad, para que puedan gozar de sus derechos en igualdad de condiciones.
+
+
+    p.mb-5 Partiendo del reconocimiento de las diferencias territoriales, Mi Familia propone adaptaciones en el modelo de intervención, a partir de lo cual surge Mi Familia Urbana y Mi Familia Rural. A continuación, se describen los componentes del modelo.
+
+
+    .titulo-sexto.color-acento-contenido(data-aos="fade-right").mb-4
+      h5 Figura 2.
+      span <em>Componentes del modelo</em>
+
+    .row.justify-content-center.align-items-stretch.mb-5
+      .col-lg-6(data-aos="fade-right").mb-4.mb-lg-0
+        .bg_05.p-0.h-100
+          .bg_04
+            .p-4
+              figure
+                img.img-t.mx-auto(src='@/assets/curso/tema1/img32.svg')
+          .p-4
+            .row.justify-content-center
+              .col-lg-11
+                p #[strong Objetivo general]
+                p Fortalecer las capacidades individuales y colectivas con familias en situación de vulnerabilidad, para promover el desarrollo familiar y el fortalecimiento del tejido social para la protección integral de los niños, niñas y adolescentes y contribuir a la prevención de violencias, negligencias y/o abusos en su contra.
+      .col-lg-6(data-aos="fade-left")
+        .bg_07.p-0.h-100
+          .bg_06
+            .p-4
+              figure
+                img.img-t.mx-auto(src='@/assets/curso/tema1/img33.svg')
+          .p-4
+            .row.justify-content-center
+              .col-lg-11
+                p #[strong Objetivos específicos Mi Familia Urbana y Mi Familia Rural]
+                ul.lista-ul--color
+                  li
+                    i.lista-ul__vineta
+                    span Fortalecer con las familias sus capacidades para el cuidado mutuo y afrontar las situaciones problemáticas, mediante metodologías que partan de los intereses, saberes y recursos de sus integrantes, facilitando la transformación de sus interacciones cotidianas.
+                  li
+                    i.lista-ul__vineta
+                    span Fortalecer el tejido social en comunidades rurales y urbanas, mediante el intercambio de experiencias entre las familias y con otros actores o referentes comunitarios, a través de ejercicios colectivos que aporten en la construcción de comunidades protectoras.
+                  li
+                    i.lista-ul__vineta
+                    span Potenciar las capacidades familiares y comunitarias identificadas para fortalecer aspectos relacionados con el capital social y la construcción de redes de solidaridad.
 
     .bg_color5.p-4
       .row.align-items-center
-        .col-lg-1.mb-4.mb-lg-0(data-aos="fade-right")
+        .col-auto.mb-4.mb-lg-0(data-aos="fade-right")
           img.img-t.m-auto(src='@/assets/curso/tema1/img26.svg')
-        .col-lg-10(data-aos="fade-left")
-          p.m-0 El programa cuenta además con un componente denominado <b>‘Convergencia de oferta y gestión de redes’</b> a través del cual se gestiona el acceso de las familias y sus integrantes a programas y servicios sociales en respuesta a necesidades o intereses particulares.
+        .col(data-aos="fade-left")
+          p.m-0 Las actuaciones frente a la protección integral de los niños, niñas y adolescentes pueden ser promocionales, de prevención, de mitigación o remediales. Las primeras se desarrollan usualmente de manera universal, antes de una amenaza, vulneración o violación de derechos, mientras que, las de mitigación o remediales responden al mandato de restablecimiento inmediato de los derechos ante su vulneración o violación.
 
     Separador
 
     #t_1_4.titulo-segundo.color-acento-contenido(data-aos="zoom-out-right")
-      h2 1.4 ¿Cómo se articula Mi Familia con la misionalidad y oferta del ICBF?
+      h2 1.4 ¿Cómo se articula #[em Mi Familia] con la misionalidad y oferta del ICBF?
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-7.mb-4.mb-lg-0.order-last.order-lg-first(data-aos="fade-right")

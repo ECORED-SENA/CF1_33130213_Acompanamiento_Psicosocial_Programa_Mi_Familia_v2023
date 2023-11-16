@@ -165,31 +165,29 @@ table *
 
 .bg_color4
   background-color: #FFFAEB
-  margin-inline: -4%
-  width: 108%
+  margin-left: -48px
+  margin-right: -48px
 
 .bg_color5
   background-color: #AFFBD8
-  margin-inline: -4%
-  width: 108%
+  margin-left: -48px
+  margin-right: -48px
 
 .bg_04
   background-color: #FFD357
-  height: 165px
+
 
 .bg_05
   background-color: #FFF6DB
-  height: 240px
   border-bottom-left-radius: 10px
   border-bottom-right-radius: 10px
 
 .bg_06
   background-color: #F57676
-  height: 165px
+
 
 .bg_07
   background-color: #FDE2E2
-  height: 240px
   border-bottom-left-radius: 10px
   border-bottom-right-radius: 10px
 
@@ -661,8 +659,34 @@ h3.subtitle
   td
     vertical-align: top
 
+.lista-ul
+  li
+    display: flex !important
+    &::before
+      position: relative
+      margin-right: 7px
+      font-size: 1.4rem
+
+.lista-ul--color
+  li
+    display: flex !important
+    &::before
+      position: relative
+      margin-right: 7px
+      font-size: 1.4rem
+
+.lista-ol--cuadro
+  li
+    display: flex !important
+    &::before
+      position: relative
+      margin-right: 7px
+      font-size: 1.4rem
+
 .lista-ul__vineta
-  top: 4px !important
-  color: #F46464
+  top: -3px !important
+  color: #F46464 !important
   font-size: x-large
-  margin-right: 2px !important
+
+.tarjeta-numerada
+  background: #E7E3FF
