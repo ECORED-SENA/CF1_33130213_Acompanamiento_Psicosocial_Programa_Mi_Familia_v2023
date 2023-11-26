@@ -121,7 +121,7 @@
     .row.justify-content-center.mb-5
       .col-xl-8
         .titulo-sexto.color-acento-contenido(data-aos="fade-right").mb-4
-          h5 Figura 3.
+          h5 Figura 2.
           span Distribución de familias según nivel de riesgo y grado de reconocimiento de sus capacidades
 
         figure
@@ -146,7 +146,7 @@
         h4 Prevención secundaria
         .row.justify-content-center
           .col
-            p.mb-0 Los programas de prevención secundaria están dirigidos a la población con alto riesgo de vulneración o con derechos vulnerados en estados muy tempranos. El objetivo de este tipo de programas es prevenir la materialización de las afectaciones a los derechos o disminuir sus efectos. Las intervenciones en este escenario deben estar dirigidas a entender la situación que genere el riesgo y realizar acompañamiento a las familias con el fin de promover mayor apropiación de sus recursos o capacidades para transformar la https://www.freepik.es/foto-gratis/padres-e-hijos-haciendo- situación y desarrollar o fortalecer prácticas protectoras (Kuehlein, 2009).
+            p.mb-0 Los programas de prevención secundaria están dirigidos a la población con alto riesgo de vulneración o con derechos vulnerados en estados muy tempranos. El objetivo de este tipo de programas es prevenir la materialización de las afectaciones a los derechos o disminuir sus efectos. Las intervenciones en este escenario deben estar dirigidas a entender la situación que genere el riesgo y realizar acompañamiento a las familias con el fin de promover mayor apropiación de sus recursos o capacidades para transformar la situación y desarrollar o fortalecer prácticas protectoras (Kuehlein, 2009).
           .col-lg-auto.col-12.mb-4.d-none.d-lg-block
             figure
               img.img-t.m-auto(src='@/assets/curso/tema3/10.svg', alt='')
@@ -167,7 +167,7 @@
           img.img-t.m-auto(src='@/assets/curso/tema3/12.svg', alt='Representación gráfica en el que se identifica el nivel de riesgo por el grado de reconocimiento de un grupo de familias.')
       .col-xl-8
         .cajon-b.bg-yellow-lighten.p-4.mb-4
-          p.mb-0 La figura 3 representa a modo de ilustración lo expuesto en los párrafos anteriores. Las familias que se encuentran en un nivel de bajo reconocimiento de sus capacidades o, que, teniendo un nivel de reconocimiento de capacidades medio o alto, enfrentan un alto nivel de riesgo y son las más indicadas para recibir intervenciones focalizadas de fortalecimiento familiar (Segmentos azul oscuro y azul medio). Mientras que las familias con mayor reconocimiento de sus capacidades y niveles de riesgo bajos o moderados pueden ser objeto de intervenciones universales (segmentos azules claros) y no serían objeto de atención de Mi Familia.
+          p.mb-0 La figura 2 representa a modo de ilustración lo expuesto en los párrafos anteriores. Las familias que se encuentran en un nivel de bajo reconocimiento de sus capacidades o, que, teniendo un nivel de reconocimiento de capacidades medio o alto, enfrentan un alto nivel de riesgo y son las más indicadas para recibir intervenciones focalizadas de fortalecimiento familiar (Segmentos azul oscuro y azul medio). Mientras que las familias con mayor reconocimiento de sus capacidades y niveles de riesgo bajos o moderados pueden ser objeto de intervenciones universales (segmentos azules claros) y no serían objeto de atención de Mi Familia.
 
         p En ese sentido, la modalidad Mi Familia es una intervención de prevención secundaria y terciaria dirigida a familias con nivel de riesgo medio y alto y con poca apropiación de sus capacidades, y que tiene como objetivo fortalecer las capacidades de las familias para promover el ejercicio de la corresponsabilidad de éstas en la protección integral de niñas, niños y adolescentes, reduciendo así el riesgo de vulneración o amenaza, aminorando sus efectos o previniendo nuevas afectaciones.
 
@@ -285,10 +285,8 @@
           tbody
             tr
               td
+                p.mt-2 #[strong Padres o cuidadores]
                 ul.lista-ul
-                  li.mb-2
-                    i.lista-ul__vineta
-                    span Padres o cuidadores
                   li.mb-2
                     i.lista-ul__vineta
                     span Edad
@@ -306,7 +304,7 @@
                     span Antecedentes de maltrato
 
               td
-                ul.lista-ul
+                ul.lista-ul.mt-2
                   li.mb-2
                     i.lista-ul__vineta
                     span Pocas habilidades parentales
@@ -333,7 +331,7 @@
                     span Bajo nivel socioeconómico
 
               td
-                p #[strong Comunitarias]
+                p.mt-2 #[strong Comunitarias]
                 ul.lista-ul
                   li.mb-2
                     i.lista-ul__vineta

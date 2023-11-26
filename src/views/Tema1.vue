@@ -19,7 +19,7 @@
     Separador
 
     #t_1_1.titulo-segundo.color-acento-contenido(data-aos="zoom-out-right")
-      h2 1.1 1.1 ¿Qué es el ICBF? ¿Cuáles son sus propósitos como entidad?
+      h2 1.1 ¿Qué es el ICBF? ¿Cuáles son sus propósitos como entidad?
 
     .bg_02.mb-5
       .row.justify-content-center
@@ -264,19 +264,17 @@
 
       .row(titulo="Infancia")
         .col-lg-8
-          p Ofrece servicios y desarrolla planes y proyectos de promoción de derechos y prevención de vulneraciones durante la infancia comprendida entre los 6 y 13 años, 11 meses y 29 días.
-          p Entre sus servicios incluye programas para el fortalecimiento de capacidades e inclusión social de niños, niñas y adolescentes con discapacidad y sus familias (De tú a tú); programa para la prevención de riesgos específicos de trabajo infantil, violencia al interior de las familias y violencias sexuales y el impulso de proyectos de vida legales, sostenibles y libres de violencia (Katünaa); programa de promoción de derechos, prevención de vulneraciones y construcción de proyecto de vida a partir de la exploración de vocaciones, intereses y talentos (Generación Explora); programa de promoción de la protección integral y proyectos de vida de las niñas y los niños que pertenezcan o se autorreconozcan como parte de una comunidad étnica (Generaciones Étnicas con Bienestar).
+          p El proceso de promoción y prevención en el componente de infancia tiene como objetivo proponer, diseñar y ejecutar políticas, planes, programas y proyectos, para la promoción y garantía de los derechos de la infancia y la prevención de su vulneración. De acuerdo con las disposiciones vigentes sobre la materia, la mencionada área misional orienta su oferta a niñas y niños entre los 6 años y 13 años, 11 meses y 29 días, en el marco de la protección integral y la Política Nacional de Infancia y Adolescencia.
+          p Además, contribuye a fortalecer la comprensión y definición de acciones de promoción de derechos y de prevención de vulneraciones; reconocer el marco jurídico del país en la materia; así como brindar herramientas conceptuales y metodológicas mediante la armonización de enfoques y conceptos interdependientes que permitan determinar las acciones de promoción y prevención de la Familia, la Sociedad y el Estado.
         .col-lg-4
           figure
             img.img-t.m-auto(src='@/assets/curso/tema1/img17.png', alt='Texto que describa la imagen')
 
       div(titulo="Adolescencia y juventud")
-        p Tiene como propósito promover los derechos de la adolescencia y la juventud (14 a 28 años), prevenir las situaciones que ponen en riesgo la garantía de los mismos y generar oportunidades para la construcción de proyectos de vida que aporten al desarrollo personal de adolescentes y jóvenes, así como al de sus entornos próximos. <b>Dentro de la oferta de esta Dirección se encuentra:</b>
         .row
           .col-lg-8
-            p El programa Generaciones Sacúdete, centrado en el acompañamiento a la formulación de proyectos de vida a través de procesos de formación, fortalecimiento de habilidades del siglo XXI y el ejercicio de la ciudadanía.
-            p Generaciones Sacúdete Étnico a través del cual se acompaña a adolescentes y jóvenes de comunidades étnicas en la formulación de proyectos de vida propios y planes de vida colectivos para la preservación de su identidad y diversidad cultural.
-            p Otras Formas de Atención Sacúdete, un programa de promoción de derechos prevención de riesgos específicos de embarazo en la adolescencia, violencias basadas en género,  reclutamiento, uso y violencia sexual por parte de grupos armados organizados y grupos delictivos organizados y, uso y consumo de sustancias psicoactivas.
+            p El proceso de promoción y prevención en el componente de adolescencia y juventud promueve la garantía de los derechos a través del fortalecimiento de las habilidades del Siglo XXI en las y los adolescentes, y jóvenes entre 14 y 28 años para que, a través de metodologías innovadoras y disruptivas, consoliden sus proyectos de vida, promuevan las ciudadanías activas y responsables, y detonen sus talentos para su bienestar, el de sus familias y la comunidad.
+            p A través de estos procesos, se acompaña en el empoderamiento del individuo para prevenir a su vez las vulneraciones y mitigar los riesgos a los que están expuestos y en el entendido de que adolescentes y jóvenes son agentes de cambio y gestores del desarrollo social y económico del país.
           .col-lg-4
             figure
               img.img-t.m-auto(src='@/assets/curso/tema1/img18.png', alt='')
@@ -304,7 +302,7 @@
     Separador
 
     #t_1_3.titulo-segundo.color-acento-contenido(data-aos="zoom-out-right")
-      h2 1.3 ¿Qué es <em>Mi Familia</em>?
+      h2 1.3 ¿Qué es Mi Familia?
 
     .bg_02.mb-5
       .row.justify-content-center
@@ -367,7 +365,7 @@
         .tarjeta-numerada.color-acento-botones.p-5.h-100
           .tarjeta-numerada__numero
             .h2.text-white 5
-          p.text-center Las familias son diversas, no existe una única forma o modelo de familia
+          p.text-center Las familias son diversas, no existe una única forma o modelo de familia.
 
       .col-lg-6.col-xl-4.mb-4
         .tarjeta-numerada.color-acento-botones.p-5.h-100
@@ -386,10 +384,6 @@
 
     p.mb-5 Partiendo del reconocimiento de las diferencias territoriales, Mi Familia propone adaptaciones en el modelo de intervención, a partir de lo cual surge Mi Familia Urbana y Mi Familia Rural. A continuación, se describen los componentes del modelo.
 
-
-    .titulo-sexto.color-acento-contenido(data-aos="fade-right").mb-4
-      h5 Figura 2.
-      span <em>Componentes del modelo</em>
 
     .row.justify-content-center.align-items-stretch.mb-5
       .col-lg-6(data-aos="fade-right").mb-4.mb-lg-0
@@ -434,7 +428,7 @@
     Separador
 
     #t_1_4.titulo-segundo.color-acento-contenido(data-aos="zoom-out-right")
-      h2 1.4 ¿Cómo se articula #[em Mi Familia] con la misionalidad y oferta del ICBF?
+      h2 1.4 ¿Cómo se articula Mi Familia con la misionalidad y oferta del ICBF?
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-7.mb-4.mb-lg-0.order-last.order-lg-first(data-aos="fade-right")
@@ -457,9 +451,9 @@
 
     .bg-full.bg-yellow-lighten
       .row.align-items-center
-        .col-auto(data-aos="fade-right")
+        .col-auto
           img.img-t.m-auto(src='@/assets/curso/tema1/img29.svg')
-        .col(data-aos="fade-left")
+        .col
           p.m-0 Esta atención complementaria se concentra en familias que enfrentan situaciones de riesgo significativo o que están atravesando por momentos de transición o crisis, para fortalecer sus capacidades para promover el desarrollo de sus integrantes, en especial de los niños, niñas y adolescentes.
 
 

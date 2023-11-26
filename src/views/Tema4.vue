@@ -43,7 +43,11 @@
 
           h4 Enfoque diferencial
 
-          p El enfoque de capacidades que asume Mi Familia se relaciona con la disposición de condiciones que faciliten o promuevan el desarrollo integral de las personas que conforman las familias, así como el desarrollo de la familia como sujeto colectivo. Las capacidades familiares se ponen a prueba de manera especial en los momentos de transición o crisis, una familia tendrá capacidades fuertes cuando la vivencia de un momento de transición no pone en riesgo, e incluso impulsa, el desarrollo individual y familiar.
+          p La Constitución Política en su artículo 13 señala que todas las personas gozarán de los mismos derechos, libertades y oportunidades sin ninguna discriminación y que es tarea del Estado proteger especialmente a aquellas que por su condición económica, física o mental se encuentren en circunstancia de debilidad manifiesta.
+
+          p De otro lado, el enfoque diferencial “exige para que la igualdad sea efectiva, el reconocimiento, el respeto, la protección, la garantía de derechos y el trato que deben estar acordes con las particularidades propias” (Ministerio del Interior, 2019) de cada individuo o grupo poblacional, por lo tanto, el Estado debe promover acciones afirmativas para adoptar medidas en favor de aquellos que históricamente han sido discriminados, excluidos o marginados.
+
+          p El ICBF formuló y adoptó el Modelo de Enfoque Diferencial de Derechos (ICBF, 2017), que parte del análisis contextual de la población sujeto de atención con el fin de: “promover acciones que no cusen daño y que, por el contrario, promuevan el desarrollo integral y respeten la diversidad en todas sus formas (…)” (p.5).
 
         .py-4.py-md-5(titulo="Enfoque de curso de vida" :icono="require('@/assets/curso/tema4/5.svg')")
 
@@ -118,7 +122,7 @@
           figure.mb-4
             img(src='@/assets/curso/tema4/img17.svg', alt='', style="max-width: 85px").mx-auto
         .col
-          p.mb-0 Mi Familia promueve que las familias reconozcan y valoren la diversidad y se avance en la comprensión de una mirada inclusiva e integradora de la diferencia, superando los programas especializados, en contextos que no son necesarios y que refuerzan la exclusión. No obstante, se reconoce que existen situaciones que afectan de manera particular a las familias que tienen integrantes con discapacidad, por ejemplo, se incluyen estrategias qu
+          p.mb-0 Mi Familia promueve que las familias reconozcan y valoren la diversidad y se avance en la comprensión de una mirada inclusiva e integradora de la diferencia, superando los programas especializados, en contextos que no son necesarios y que refuerzan la exclusión. No obstante, se reconoce que existen situaciones que afectan de manera particular a las familias que tienen integrantes con discapacidad, por ejemplo, se incluyen estrategias que permitan redistribución del trabajo de cuidado, cuidado al cuidador y promoción de participación.
 
     h3.subtitle.my-5
       span Género

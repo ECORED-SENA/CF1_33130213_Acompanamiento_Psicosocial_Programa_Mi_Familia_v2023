@@ -122,7 +122,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/prueba.pdf',
+        download: 'downloads/CF01_33130213_DU.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -174,7 +174,7 @@ export default {
     {
       termino: 'ICBF',
       significado:
-        'Entidad del estado colombiano que trabaja por la protección integral de la primera infancia, la niñez, la adolescencia y el bienestar de las familias en Colombia.',
+        'Entidad del Estado colombiano que trabaja por la protección integral de la primera infancia, la niñez, la adolescencia y el bienestar de las familias en Colombia.',
     },
     {
       termino: 'Interseccionalidad',
@@ -184,7 +184,7 @@ export default {
     {
       termino: 'Mi Familia',
       significado:
-        'Programa de acompañamiento familiar psicosocial que tiene como objetivo fortalecer las capacidades de las familias para promover el desarrollo integral de niños, niñas y adolescentes y reducir y mitigar los efectos de la violencia, el abuso o la negligencia en su contra.',
+        'fortalecer las capacidades individuales y colectivas con familias en situación de vulnerabilidad, para promover el desarrollo familiar y el fortalecimiento del tejido social para la protección integral de los niños, niñas y adolescentes, y contribuir a la prevención de violencias, negligencias y/o abusos en su contra.',
     },
     {
       termino: 'NNA',
@@ -319,10 +319,15 @@ export default {
           cargo: 'Experto',
           centro: 'ICBF',
         },
-
+        {
+          nombre: 'Miroslava González H.',
+          cargo: 'Diseñadora Instruccional',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+        },
         {
           nombre: 'Ana Catalina Córdoba Sus',
-          cargo: 'Diseñadora Instruccional',
+          cargo: 'Asesora Metodológica',
           centro:
             'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
