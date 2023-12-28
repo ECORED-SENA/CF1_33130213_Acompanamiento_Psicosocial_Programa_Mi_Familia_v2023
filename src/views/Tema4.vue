@@ -114,7 +114,7 @@
           .col
             p Establece que las entidades competentes deberán establecer programas de apoyo y acompañamiento a las familias de las personas con discapacidad, que deben articularse con otras estrategias de inclusión, desarrollo social y de superación de la pobreza.
 
-    p.mb-5 Mi Familia asegura medidas de inclusión, acciones y ajustes razonables que permiten que las personas con discapacidad y sus familias, participen en procesos de fortalecimiento de sus capacidades, en conjunto con otras familias, de acuerdo con lo estipulado en la Ley 1346 de 2009, Por medio de la cual se aprueba la “Convención sobre los Derechos de las personas con Discapacidad”, adoptada por la Asamblea General de la Naciones Unidas el 13 de diciembre de 2006.
+    p.mb-5 Mi Familia asegura medidas de inclusión, acciones y ajustes razonables que permiten que las personas con discapacidad y sus familias, participen en procesos de fortalecimiento de sus capacidades, en conjunto con otras familias, de acuerdo con lo estipulado en la Ley 1346 de 2009, Por medio de la cual se aprueba la “Convención sobre los Derechos de las personas con Discapacidad”, adoptada por la Asamblea General de las Naciones Unidas el 13 de diciembre de 2006.
 
     .bg-green.p-4.mb-5
       .row

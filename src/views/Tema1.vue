@@ -43,7 +43,7 @@
             img.img-t.m-auto(src='@/assets/curso/tema1/img04.svg')
         .col-lg-3(data-aos="fade-left")
           figure
-            img.img-t.m-auto(src='@/assets/curso/tema1/img05.svg')
+            img.img-t.m-auto(src='@/assets/curso/tema1/img05.svg', alt="El ICBF cuenta con 33 sedes regionales, 220 centros zonales y 3 millones de beneficiarios.")
 
       .row.justify-content-center.mb-4(data-aos="fade-down-right")
         .col-lg-4.col-xl-4.col-xxl-3.mb-4

@@ -125,7 +125,7 @@
           span Distribución de familias según nivel de riesgo y grado de reconocimiento de sus capacidades
 
         figure
-          img.img-t.m-auto(src='@/assets/curso/tema3/fig4.svg')
+          img.img-t.m-auto(src='@/assets/curso/tema3/fig4.svg', alt="Representación gráfica en el que se identifica el nivel de riesgo por el grado de reconocimiento de un grupo de familias.")
 
 
     p De acuerdo con el gráfico anterior, en el eje X (horizontal) se observa el grado de reconocimiento de capacidades que tienen las familias, mientras que, en el eje Y (vertical) se presentan los niveles de riesgo que pueden ser bajo, moderado o alto. Por tanto, una familia con un nivel de riesgo alto y con poca apropiación de sus capacidades para enfrentarlos (segmento azul oscuro) tendría una mayor probabilidad de amenaza y/o vulneración de derechos de niñas, niños y adolescentes y se ubicaría en el segmento superior izquierdo de la gráfica, mientras que una familia que tiene riesgo bajo y alto nivel de apropiación de capacidades, se ubicaría en la parte inferior derecha de la gráfica (segmento azul claro).
@@ -209,7 +209,7 @@
             figure.mb-4
               img(src='@/assets/curso/tema3/img24.svg', alt='', style="max-width: 85px").mx-auto
           .col
-            p.mb-0 De otro lado, la evidencia muestra que fortalecer la resiliencia de niñas, niños y adolescentes con el fin de mejorar su capacidad de respuesta frente a situaciones adversas, constituye un factor protector a nivel individual (Buchanan, 2014); asimismo, fortalecer la resiliencia de los padres con el fin de evitar que se generen frustraciones o estrés, constituye un factor que podría disminuir el riesgo de negligencia o violencia física en contra de niñas, niños y adolescentes (WHO, 2013)
+            p.mb-0 De otro lado, la evidencia muestra que fortalecer la resiliencia de niñas, niños y adolescentes con el fin de mejorar su capacidad de respuesta frente a situaciones adversas, constituye un factor protector a nivel individual (Buchanan, 2014); asimismo, fortalecer la resiliencia de los padres con el fin de evitar que se generen frustraciones o estrés, constituye un factor que podría disminuir el riesgo de negligencia o violencia física en contra de niñas, niños y adolescentes (WHO, 2013).
 
     h4.my-4
       span Nivel familiar
